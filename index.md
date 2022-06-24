@@ -5,7 +5,7 @@ nav_exclude: false
 nav_order: 1
 ---
 
-# **BJC Academy: Blue Section**
+# **BJC Academy: Gold Section**
 {: .mb-2 }
 UC Berkeley, Summer 2022
 {: .mb-2 .fs-6 .text-grey-dk-100 }
