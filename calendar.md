@@ -48,7 +48,7 @@
             <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/lists-I.topic&course=bjc-su22-blue.html&novideo&noreading&noassignment">Lecture: Number Representation</a></td>
     </tr>
     <tr>
-        <td><a href="tinyurl.com/bjc-lab3">Lab 3: Conditional Blocks</a></td> </tr>
+        <td><a href="tinyurl.com/bjc-lab3">Lab 3: Conditional Blocks</a></td>
     <tr>
       <td>Block 3: 4:00-5:30PM</td>
       <td><a href="https://docs.google.com/document/d/1Mj_UCUmpN_0Af9FQYyu7yqwfPbRrduK6i2-4vOtLtX8/">Project 1: Letter Match </a></td>
