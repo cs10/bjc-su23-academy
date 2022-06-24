@@ -74,7 +74,7 @@
       <td>Lecture: Lists</td>
     </tr>
     <tr>
-      <td><a href="https://tinyurl.com/bjc-lab5">Lab 5: Collecting Data into Lists</a></td>
+      <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/lists-I.topic&course=cs10_fa20.html&novideo&noreading&noassignment">Lab 5: Collecting Data into Lists</a></td>
     </tr>
     <tr>
       <td rowspan = "6">Friday - 6/23</td>
@@ -83,7 +83,7 @@
       <td rowspan = "6"></td>
     </tr>
     <tr>
-        <td><a href="https://tinyurl.com/bjc-lab5">Finish Lab 5</a></td>
+        <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/lists-I.topic&course=cs10_fa20.html&novideo&noreading&noassignment">Finish Lab 5</a></td>
     </tr>
     <tr>
         <td><a href="https://docs.google.com/presentation/d/16-b4WhRFpN09x0kf3wM83VuNDXOjPpooYMfZA5ZIa84/edit#slide=id.g13652fb578e_0_263">Review Course Concepts</a></td>
