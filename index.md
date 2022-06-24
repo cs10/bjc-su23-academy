@@ -18,7 +18,7 @@ UC Berkeley, Summer 2022
 
 ## Course Calendar
 
-{% include_relative calendar.md %}
+{% include_relative js-calendar.md %}
 
 ## Contact Information
 You may contact us at bhenrique (at) berkeley.edu (Brendan) and jedi_force (at) berkeley.edu (Victoria).
