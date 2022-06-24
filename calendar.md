@@ -29,8 +29,7 @@
     </tr>
     <tr>
       <td>Block 3: 4:00-5:30PM</td>
-      <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/2-loops-variables.topic&course=cs10_fa19.html&novideo&noreading&noassignment">Lab 2: Looping and Custom Blocks</a><tr/>
-      </td>
+      <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/2-loops-variables.topic&course=cs10_fa19.html&novideo&noreading&noassignment">Lab 2: Looping and Custom Blocks</a><td/>
     </tr>
     <tr>
       <td rowspan = "6">Wednesday - 6/21</td>
