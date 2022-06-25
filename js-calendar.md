@@ -80,7 +80,7 @@
       <td rowspan = "6">Friday - 6/23</td>
       <td rowspan = "3">Block 1: 9:30-11:30AM</td>
       <td><a href="">Computing in the News</a></td>
-      <td rowspan = "6"></td>
+      <td rowspan = "6"><a href="https://forms.gle/WuyQrfzaoNQBqh1T6">Feedback Form</a></td>
     </tr>
     <tr>
         <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/lists-I.topic&course=cs10_fa20.html&novideo&noreading&noassignment">Finish Lab 5</a></td>
