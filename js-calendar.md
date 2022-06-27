@@ -113,8 +113,6 @@
     </tr>
     <tr>
      <td rowspan = "2">Block 2: 1:30-3:30PM</td>
-    </tr>
-    <tr>
         <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/areas/algorithms.topic&course=cs10_fa20.html&novideo&noreading&noassignment">Finish Lab 6</a></td>
     </tr>
     <tr>    
@@ -123,6 +121,8 @@
     <tr>
       <td rowspan = "2">Block 3: 4:00-5:30PM</td>
         <td>Social Implications Discussion: </td>
+    </tr>
+    <tr>
         <td><a href="https://docs.google.com/document/d/1ORY7lorv_MnSzArSXzbbmEutp3Ns15uIxaWWBmd1OPM/edit#heading=h.8j668vtsblnv">Project 2: Mastermind</a></td>
     </tr>
     </tbody>
