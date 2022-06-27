@@ -31,7 +31,7 @@
     </tr>
     <tr>
       <td rowspan = "1">Block 3: 4:00-5:30PM</td>
-      <td>Social Implications Discussion:/td>
+      <td>Social Implications Discussion: </td>
     </tr>
     <tr>    
         <td><a href="https://docs.google.com/document/d/1ORY7lorv_MnSzArSXzbbmEutp3Ns15uIxaWWBmd1OPM/edit#heading=h.8j668vtsblnv">Project 2: Mastermind</a></td>
