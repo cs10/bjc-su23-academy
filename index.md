@@ -21,6 +21,9 @@ You may contact us at bhenrique (at) berkeley.edu (Brendan) and jedi_force (at) 
 
 Please ensure you email *both of us* together if you contact us and follow all the Pre-College program policies regarding emailing staff.
 
+### Brendan's Zoom Room
+Brendan will be holding office hours during course time <a href="https://berkeley.zoom.us/my/brendanhenrique">(click here for Zoom)</a>
+
 ## Course Calendar
 
 {% include_relative js-calendar.md %}
