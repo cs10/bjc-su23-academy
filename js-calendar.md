@@ -35,7 +35,7 @@
       <td rowspan = "6">Wednesday - 6/21</td>
       <td rowspan = "3">Block 1: 9:30-11:30AM</td>
           <td><a href="https://www.sciencedaily.com/releases/2022/06/220621141746.htm">Computing in the News</a></td>
-      <td rowspan = "6"><bd>Readings: (1) </bd><a href="https://www.ted.com/talks/kevin_slavin_how_algorithms_shape_our_world">How Algorithms Shape Our World</a><bd> and (2) </bd> <bd><a href="https://www.wired.com/2014/11/algorithms-great-can-also-ruin-lives/">Algorithms Are Great and All, But They Can Also Ruin Lives</a></bd>
+      <td rowspan = "6"><bd>Readings: (1) </bd><a href="https://www.ted.com/talks/kevin_slavin_how_algorithms_shape_our_world">How Algorithms Shape Our World</a><bd> and (2) </bd> <bd><a href="https://www.wired.com/2014/11/algorithms-great-can-also-ruin-lives/">Algorithms Are Great and All, But They Can Also Ruin Lives</a></bd></td>
     </tr>
     <tr>
         <td><a href="https://docs.google.com/presentation/d/1tvq8Y_PRBZxwBq3cJsCuUzLfnniSFi4K6tRgLTMvcmg/edit#slide=id.g134bac17395_0_213">Lecture: Functions</a></td>
