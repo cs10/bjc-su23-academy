@@ -99,4 +99,5 @@
       <td rowspan = "1">Block 3: 4:00-5:30PM</td>
       <td>Social Implications Discussion: Self-Driving Cars</td>
     </tr>
+    </tbody>
 </table>

@@ -19,7 +19,7 @@ UC Berkeley, Summer 2022
 ## Contact Information
 You may contact us at bhenrique (at) berkeley.edu (Brendan) and jedi_force (at) berkeley.edu (Victoria).
 
-Please ensure you email *both of us* together if you contact us and follow all of the Pre-College program policies regarding emailing staff.
+Please ensure you email *both of us* together if you contact us and follow all the Pre-College program policies regarding emailing staff.
 
 ## Course Calendar
 
