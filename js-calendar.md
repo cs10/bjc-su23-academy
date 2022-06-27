@@ -100,7 +100,7 @@
       <td>Social Implications Discussion: Self-Driving Cars</td>
     </tr>
     <tr>
-      <td rowspan = "7">Monday - 6/26</td>
+      <td rowspan = "7">Monday - 6/27</td>
       <td rowspan = "3">Block 1: 9:30-11:30AM</td>
       <td> <a href="https://www.sciencedaily.com/releases/2022/06/220621141810.htm">Computing in the News</a></td>
       <td rowspan = "7"><a href="https://tinyurl.com/bjc-proj2">Finish Project 2 (Mastermind)</a></td>
