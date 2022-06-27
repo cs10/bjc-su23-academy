@@ -23,5 +23,9 @@ Please ensure you email *both of us* together if you contact us and follow all o
 
 ## Course Calendar
 
+### Week 1
+
 {% include_relative js-calendar.md %}
 
+### Week 2
+{% include_relative js-calendar2.md %}
