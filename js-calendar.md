@@ -126,10 +126,10 @@
         <td><a href="https://docs.google.com/document/d/1ORY7lorv_MnSzArSXzbbmEutp3Ns15uIxaWWBmd1OPM/edit#heading=h.8j668vtsblnv">Work on Project 2</a></td>
     </tr>
 <tr>
-      <td rowspan = "5">Tuesday - 6/28</td>
+      <td rowspan = "6">Tuesday - 6/28</td>
       <td rowspan = "3">Block 1: 9:30-11:30AM</td>
       <td><a href="https://www.youtube.com/watch?time_continue=14&v=TDynSmrzpXw&feature=emb_logo">What is Testing and Why is it Important?</a></td>
-      <td rowspan = "5"><a href="https://forms.gle/SSWovRYMpULtfzzA9">Final Project Proposition</a></td>
+      <td rowspan = "6"><a href="https://forms.gle/SSWovRYMpULtfzzA9">Final Project Proposition</a></td>
     </tr>
     <tr>
       <td><a href="https://docs.google.com/document/d/1ORY7lorv_MnSzArSXzbbmEutp3Ns15uIxaWWBmd1OPM/edit#heading=h.8j668vtsblnv">Finish Project 2</a></td>
