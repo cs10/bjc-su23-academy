@@ -120,10 +120,33 @@
     </tr>
     <tr>
       <td rowspan = "2">Block 3: 4:00-5:30PM</td>
-        <td>Social Implications Discussion: </td>
+        <td>Lecture: Algorithmic Complexity</td>
     </tr>
     <tr>
-        <td><a href="https://docs.google.com/document/d/1ORY7lorv_MnSzArSXzbbmEutp3Ns15uIxaWWBmd1OPM/edit#heading=h.8j668vtsblnv">Project 2: Mastermind</a></td>
+        <td><a href="https://docs.google.com/document/d/1ORY7lorv_MnSzArSXzbbmEutp3Ns15uIxaWWBmd1OPM/edit#heading=h.8j668vtsblnv">Work on Project 2</a></td>
+    </tr>
+<tr>
+      <td rowspan = "5">Tuesday - 6/28</td>
+      <td rowspan = "3">Block 1: 9:30-11:30AM</td>
+      <td><a href="https://www.youtube.com/watch?time_continue=14&v=TDynSmrzpXw&feature=emb_logo">What is Testing and Why is it Important?</a></td>
+      <td rowspan = "5"><a href="https://forms.gle/SSWovRYMpULtfzzA9">Final Project Proposition</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://docs.google.com/document/d/1ORY7lorv_MnSzArSXzbbmEutp3Ns15uIxaWWBmd1OPM/edit#heading=h.8j668vtsblnv">Finish Project 2</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://docs.google.com/document/d/1ACKaAAtItEYB7MMBGgN3jxEMBuSBLbRnJmFrx32YG2I/edit#">Project 3: 2048 Game</a></td>
+    </tr>
+    <tr>
+      <td rowspan = "1">Block 2: 1:30-3:30PM</td>
+        <td><a href="https://docs.google.com/document/d/1ACKaAAtItEYB7MMBGgN3jxEMBuSBLbRnJmFrx32YG2I/edit#">Work on Project 3</a></td>  
+    </tr>
+    <tr>
+      <td rowspan = "2">Block 3: 4:00-5:30PM</td>
+      <td><a href="https://docs.google.com/document/d/1ACKaAAtItEYB7MMBGgN3jxEMBuSBLbRnJmFrx32YG2I/edit#">Finish Project 3</a></td>
+    </tr>
+    <tr>
+        <td>Social Implications Discussion: </td>
     </tr>
     </tbody>
 </table>
