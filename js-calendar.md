@@ -148,5 +148,29 @@
     <tr>
         <td>Social Implications Discussion: </td>
     </tr>
+    <tr>
+      <td rowspan = "6">Wednesday - 6/29</td>
+      <td rowspan = "2">Block 1: 9:30-11:30AM</td>
+      <td><a>CS Life after this Course + AMA (Group Activity)</a></td>
+      <td rowspan = "6"><a href="">Final Projects</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://docs.google.com/document/d/1ACKaAAtItEYB7MMBGgN3jxEMBuSBLbRnJmFrx32YG2I/edit#">Work on Project 3</a></td>
+    </tr>
+    <tr>
+      <td rowspan = "2">Block 2: 1:30-3:30PM</td>
+        <td><a href="https://docs.google.com/document/d/1ACKaAAtItEYB7MMBGgN3jxEMBuSBLbRnJmFrx32YG2I/edit#">Finish Project 3</a></td>  
+    </tr>
+    <tr>
+        <td><a href="https://docs.google.com/document/d/1De6Tnnwp8dNAuDKJDPnDJpg9DPTAMwv0_f6y4zzcdrs/edit">Intro to Final Project + Spec</a></td>
+    </tr>
+    <tr>
+      <td rowspan = "1">Block 3: 4:00-5:30PM</td>
+      <td><a href="https://docs.google.com/document/d/1De6Tnnwp8dNAuDKJDPnDJpg9DPTAMwv0_f6y4zzcdrs/edit">Work on Final Project</a></td>
+    </tr>
+    <tr>
+      <td rowspan = "1">Hackathon: 7:00-9:00PM</td>
+      <td><a href="https://docs.google.com/document/d/1De6Tnnwp8dNAuDKJDPnDJpg9DPTAMwv0_f6y4zzcdrs/edit">Work on Final Project</a></td>
+    </tr>
     </tbody>
 </table>
