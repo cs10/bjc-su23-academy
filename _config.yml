@@ -1,6 +1,6 @@
 title: BJC Summer Academy; Gold Section
 tagline:
-author: Sarah Taylor, Mansi Shah, Victoria Phelps, Brendan Henrique
+author: Victoria Phelps
 baseurl: /bjc-su22-gold # the subpath of your site, e.g. /blog
 url: https://cs10.org
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
