@@ -8,10 +8,9 @@ description: A collection of the amazing projects created by the students
 
 ## Flappy Bird
 ### Created by: Francesco & David
-
 <iframe
 allowfullscreen allow="geolocation; microphone; camera"
-src="https://snap.berkeley.edu/embed?project=Flappy%20bird%20-%20Final%20project&user=francesco.boccuzzi&showTitle=true&pauseButton=true"
+src="https://snap.berkeley.edu/embed?project=Flappy%20bird%20-%20Final%20project&user=francesco.boccuzzi&showTitle=true&showAuthor=true&editButton=true&pauseButton=true"
 width="480" height="390" frameBorder=0>
 </iframe>
 
@@ -28,7 +27,7 @@ width="480" height="390" frameBorder=0>
 ### Created by: Schlok & Bryan
 <iframe
 allowfullscreen allow="geolocation; microphone; camera"
-src="https://snap.berkeley.edu/embed?project=Dino%20Game&user=shloksooch&showTitle=true&showAuthor=true&pauseButton=true"
+src="https://snap.berkeley.edu/embed?project=Dino%20Game&user=shloksooch&showTitle=true&showAuthor=true&editButton=true&pauseButton=true"
 width="480" height="390" frameBorder=0>
 </iframe>
 
@@ -37,7 +36,6 @@ width="480" height="390" frameBorder=0>
 ### Created by: Jackson & Diego
 <iframe
 allowfullscreen allow="geolocation; microphone; camera"
-src="https://snap.berkeley.edu/embed?project=21&user=jacksoncahn&showTitle=true&showAuthor=true&pauseButton=true"
+src="https://snap.berkeley.edu/embed?project=21&user=jacksoncahn&showTitle=true&showAuthor=true&editButton=true&pauseButton=true"
 width="480" height="390" frameBorder=0>
 </iframe>
-
