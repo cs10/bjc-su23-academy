@@ -16,7 +16,7 @@ UC Berkeley, Summer 2023
 **Instructors:** Caren Thomas, Imen Guechtouli, Sarah Taylor, and Victoria Phelps
 {: .fs-4 }
 
-<img title="A Collage of Students' Recursive Fractals" src="C:\Users\nemi0\Documents\CS10_usr\bjc-su23-academy\assets\images\recursion.png">
+<img title="A Collage of Students' Recursive Fractals" src="images/recursion.png">
 
 ## Contact Information
 You may contact us at carenthomas01 (at) gmail.com (Caren), imen (at) berkeley.edu (Imen), 20sgtaylor (at) berkeley.edu (Sarah), and jedi_force (at) berkeley.edu (Victoria).
