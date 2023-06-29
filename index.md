@@ -26,6 +26,6 @@ Please ensure you email *all of us* if you contact us, and follow all the Pre-Co
 ### Final Project Showcase
 The final project showcase will be on Thursday, June 29th, 2023, at 3 PM PST via Zoom. Please direct your webpage to the <a href="https://cs10.org/bjc-su23-academy/final-projects/">Final Project Showcase subpage</a> for the Zoom meeting link and to view students' projects.
 
-## Course Calendar
+<!-- ## Course Calendar -->
 
 {% include_relative js-calendar.md %}

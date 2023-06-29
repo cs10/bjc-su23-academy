@@ -1,4 +1,4 @@
-<table class="table table-bordered schedule-table">
+<!-- <table class="table table-bordered schedule-table">
   <thead>
     <tr>
       <th>Date</th>
@@ -173,4 +173,4 @@
       <td><a href="https://docs.google.com/document/d/1De6Tnnwp8dNAuDKJDPnDJpg9DPTAMwv0_f6y4zzcdrs/edit">Work on Final Project</a></td>
     </tr>
     </tbody>
-</table>
+</table> -->
