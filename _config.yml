@@ -1,7 +1,7 @@
-title: BJC Summer Academy; Gold Section
+title: BJC 2023 Summer CS Academy
 tagline:
-author: Victoria Phelps
-baseurl: /bjc-su22-gold # the subpath of your site, e.g. /blog
+author: Imen Guechtouli
+baseurl: /bjc-su23-academy # the subpath of your site, e.g. /blog
 url: https://cs10.org
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
